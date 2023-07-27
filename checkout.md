@@ -19,3 +19,4 @@ git checkout -b <nombreRama>
 ```
 git checkout -b <nombreRama> <ramaExistente>
 ```
+Para más información da clic [aquí](https://git-scm.com/docs/git-checkout).
